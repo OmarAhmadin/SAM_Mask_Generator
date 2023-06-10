@@ -1,2 +1,2 @@
 # SAM_Mask_Generator
-Get the binary masks from images with SAM
+Get the binary masks, rgbas from images with SAM
